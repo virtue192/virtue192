@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300" role="img" aria-labelledby="title desc">
+<title id="title">慢慢 · Virtu — AI community, DevRel and campus collaboration</title>
+<desc id="desc">你好，我是慢慢。 / 连接开发者、AI 产品与校园。 / 让想法在真实协作中落地。</desc>
+<style>.still{display:none}@media(prefers-reduced-motion:reduce){.motion{display:none}.still{display:block}}</style>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0c1220"/><stop offset="1" stop-color="#10352e"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#34d399" stop-opacity=".16"/><stop offset="1" stop-color="#34d399" stop-opacity="0"/></radialGradient>
+<linearGradient id="moon" x2="1" y2="1"><stop stop-color="#f8fafc"/><stop offset="1" stop-color="#6ee7b7"/></linearGradient>
+</defs>
+<rect x=".5" y=".5" width="959" height="299" rx="24" fill="url(#bg)" stroke="#334155"/>
+<circle cx="808" cy="130" r="186" fill="url(#glow)"/>
+<g fill="#6ee7b7" opacity=".55"><circle cx="710" cy="52" r="2"/><circle cx="881" cy="59" r="2.5"/><circle cx="914" cy="153" r="1.5"/><circle cx="697" cy="217" r="1.5"/><circle cx="875" cy="250" r="2"/></g>
+<g transform="translate(805 134)"><ellipse rx="99" ry="39" transform="rotate(-26)" fill="none" stroke="#6ee7b7" stroke-opacity=".3"/>
+<circle r="54" fill="url(#moon)"/><circle cx="22" cy="-14" r="49" fill="#10352e"/>
+<circle cx="-76" cy="37" r="5" fill="#34d399"/></g>
+<g font-family="system-ui, -apple-system, 'Segoe UI', 'Microsoft YaHei', 'Noto Sans CJK SC', sans-serif">
+<text x="54" y="53" fill="#6ee7b7" font-size="12" font-weight="600" letter-spacing="3">PEOPLE · IDEAS · AI</text>
+<text x="54" y="124" fill="#f8fafc" font-size="46" font-weight="700">慢慢 · Virtu</text>
+<g class="motion"><clipPath id="typing-0"><rect x="54" y="147" width="660" height="42"><animate attributeName="width" values="0.0;24.0;48.0;72.0;96.0;120.0;144.0;168.0;192.0;192.0;0.0;0.0" keyTimes="0.000000;0.022500;0.045000;0.067500;0.090000;0.112500;0.135000;0.157500;0.180000;0.310000;0.333333;1.000000" calcMode="discrete" dur="15s" repeatCount="indefinite"/></rect></clipPath>
+<g opacity="1"><animate attributeName="opacity" values="1;0;0" keyTimes="0;.333333;1" calcMode="discrete" dur="15s" repeatCount="indefinite"/>
+<text x="54" y="178" fill="#6ee7b7" font-size="24" textLength="192.0" lengthAdjust="spacingAndGlyphs" font-family="ui-monospace, Consolas, 'Microsoft YaHei', monospace" clip-path="url(#typing-0)">你好，我是慢慢。</text>
+<rect x="250.0" y="154" width="2" height="28" fill="#6ee7b7"><animate attributeName="x" values="58.0;82.0;106.0;130.0;154.0;178.0;202.0;226.0;250.0;250.0;58.0;58.0" keyTimes="0.000000;0.022500;0.045000;0.067500;0.090000;0.112500;0.135000;0.157500;0.180000;0.310000;0.333333;1.000000" calcMode="discrete" dur="15s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0" dur=".8s" calcMode="discrete" repeatCount="indefinite"/></rect></g><clipPath id="typing-1"><rect x="54" y="147" width="660" height="42"><animate attributeName="width" values="0.0;0.0;24.0;48.0;72.0;96.0;120.0;144.0;158.4;172.8;187.2;211.2;235.2;259.2;283.2;307.2;331.2;331.2;0.0;0.0" keyTimes="0.000000;0.333333;0.345333;0.357333;0.369333;0.381333;0.393333;0.405333;0.417333;0.429333;0.441333;0.453333;0.465333;0.477333;0.489333;0.501333;0.513333;0.643333;0.666667;1.000000" calcMode="discrete" dur="15s" repeatCount="indefinite"/></rect></clipPath>
+<g opacity="0"><animate attributeName="opacity" values="0;1;0;0" keyTimes="0;.333333;.666667;1" calcMode="discrete" dur="15s" repeatCount="indefinite"/>
+<text x="54" y="178" fill="#6ee7b7" font-size="24" textLength="331.2" lengthAdjust="spacingAndGlyphs" font-family="ui-monospace, Consolas, 'Microsoft YaHei', monospace" clip-path="url(#typing-1)">连接开发者、AI 产品与校园。</text>
+<rect x="389.2" y="154" width="2" height="28" fill="#6ee7b7"><animate attributeName="x" values="58.0;58.0;82.0;106.0;130.0;154.0;178.0;202.0;216.4;230.8;245.2;269.2;293.2;317.2;341.2;365.2;389.2;389.2;58.0;58.0" keyTimes="0.000000;0.333333;0.345333;0.357333;0.369333;0.381333;0.393333;0.405333;0.417333;0.429333;0.441333;0.453333;0.465333;0.477333;0.489333;0.501333;0.513333;0.643333;0.666667;1.000000" calcMode="discrete" dur="15s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0" dur=".8s" calcMode="discrete" repeatCount="indefinite"/></rect></g><clipPath id="typing-2"><rect x="54" y="147" width="660" height="42"><animate attributeName="width" values="0.0;0.0;24.0;48.0;72.0;96.0;120.0;144.0;168.0;192.0;216.0;240.0;264.0;288.0;288.0;0.0" keyTimes="0.000000;0.666667;0.681667;0.696667;0.711667;0.726667;0.741667;0.756667;0.771667;0.786667;0.801667;0.816667;0.831667;0.846667;0.976667;1.000000" calcMode="discrete" dur="15s" repeatCount="indefinite"/></rect></clipPath>
+<g opacity="0"><animate attributeName="opacity" values="0;1;1" keyTimes="0;.666667;1" calcMode="discrete" dur="15s" repeatCount="indefinite"/>
+<text x="54" y="178" fill="#6ee7b7" font-size="24" textLength="288.0" lengthAdjust="spacingAndGlyphs" font-family="ui-monospace, Consolas, 'Microsoft YaHei', monospace" clip-path="url(#typing-2)">让想法在真实协作中落地。</text>
+<rect x="346.0" y="154" width="2" height="28" fill="#6ee7b7"><animate attributeName="x" values="58.0;58.0;82.0;106.0;130.0;154.0;178.0;202.0;226.0;250.0;274.0;298.0;322.0;346.0;346.0;58.0" keyTimes="0.000000;0.666667;0.681667;0.696667;0.711667;0.726667;0.741667;0.756667;0.771667;0.786667;0.801667;0.816667;0.831667;0.846667;0.976667;1.000000" calcMode="discrete" dur="15s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0" dur=".8s" calcMode="discrete" repeatCount="indefinite"/></rect></g></g>
+<text class="still" x="54" y="178" fill="#6ee7b7" font-size="24">你好，我是慢慢。</text>
+<path d="M54 211 H640" stroke="#475569" stroke-opacity=".5"/>
+<text x="54" y="244" fill="#cbd5e1" font-size="13">MOONSPACE.AI  /  DEVREL  /  COMMUNITY</text>
+<text x="54" y="275" fill="#94a3b8" font-size="12">让人相遇 · 让想法落地</text>
+</g></svg>
